@@ -1,5 +1,5 @@
 {
-	"name": "vinkla/instagram",
+	"name": "mattbucci/instagram",
 	"description": "A Instagram bridge for Laravel",
 	"license": "MIT",
 	"keywords": ["laravel", "instagram", "images", "api", "image", "media", "facebook"],
@@ -13,7 +13,7 @@
 		"php": ">=5.4",
 		"illuminate/contracts": "5.0.*|5.1.*",
 		"illuminate/support": "5.0.*|5.1.*",
-		"graham-campbell/manager": "~2.1",
+		"graham-campbell/manager": "~2.0",
 		"cosenary/instagram": "~2.0"
 	},
 	"require-dev": {
